@@ -1,0 +1,32 @@
+.nav-back{
+    background-color:orange;
+}
+
+.foot-back{
+    background-color:orange;
+}
+
+ul{
+    list-style: none;
+}
+
+.history-text{
+    text-align: justify;
+}
+
+h1{
+    font-weight: bold;
+}
+
+.orange-text, h2{
+    color: orange;
+    font-weight: bold;
+}
+
+.orange-line{
+    height: 5px;
+    width: 99%;
+    background-color: orange;
+    margin: auto;
+    border-radius:10px;
+}
