@@ -30,3 +30,23 @@ h1{
     margin: auto;
     border-radius:10px;
 }
+
+@media (max-width: 768px){
+    h2, h3{
+        font-size:20px;
+    }
+
+    .d-li li, .text-p{
+        font-size:16px;
+    }
+}
+
+@media (max-width: 576px){
+    .d-li li, .text-p{
+        font-size:14px;
+    }
+
+    h2,h3{
+        font-size:18px;
+    }
+}
